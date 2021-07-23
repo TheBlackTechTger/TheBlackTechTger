@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my AI project Jarvis
 - 📫 You can contact me on my email: akhiwaghtech@gmail.com
 
-Marvel Movies WebSite Status: online at domain: https://f4cda5f64c7c.ngrok.io/
+Marvel Movies WebSite Status: offline
 
 <!---
 TheBlackTechTger/TheBlackTechTger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
