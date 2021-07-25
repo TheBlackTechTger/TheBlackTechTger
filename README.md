@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on my AI project Jarvis
 - 📫 You can contact me on my email: akhiwaghtech@gmail.com
 
-Marvel Movies WebSite Status: Online at: http://1cb3c5239532.ngrok.io/
+Marvel Movies WebSite Status: offline
